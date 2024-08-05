@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hello, I'm Mustafa YILDIZ 👋
 
-<!--
-**xxxmyxxx/xxxmyxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a proactive and innovative software developer with a passion for building efficient and scalable applications. My experience in the tech industry has honed my skills in various programming languages and frameworks, empowering me to tackle challenging problems and implement creative solutions. I am always enthusiastic about learning new technologies and staying current with industry trends.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Expertise
+- **Languages:** Java
+- **Databases:** MongoDB, PostgreSQL
+- **ORM (Object-Relational Mapping):** Hibernate
+- **Spring Ecosystem:** Spring, Spring MVC, Spring Boot
+- **Web Technologies:** HTML, CSS, Bootstrap, JavaScript, Sass, React, Next.js
+- **Other Technologies:** Git
